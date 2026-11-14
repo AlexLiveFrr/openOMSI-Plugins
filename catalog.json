@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "speed-warning",
+      "name": "Speed warning",
+      "author": "openOMSI",
+      "version": "1.0.0",
+      "description": "Shows a message while the bus is faster than a limit you choose. A small example of a catalog plugin with settings.",
+      "license": "AGPL-3.0-only",
+      "tags": [
+        "driving",
+        "example"
+      ],
+      "bytes": 985,
+      "files": [
+        {
+          "path": "main.lua",
+          "size": 985,
+          "sha256": "19d57b5722d2fa118a8982439a6a428a9350d6eb2559b4da437cb5770a2232a6"
+        }
+      ]
+    }
+  ]
+}
