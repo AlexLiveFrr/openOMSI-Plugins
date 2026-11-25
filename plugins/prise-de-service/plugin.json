@@ -6,5 +6,5 @@
   "description": "A depot checklist before you leave (brake, electrics, engine, air pressure, lights, indicator and horn test, destination, doors) and a parking checklist at the end of the duty.",
   "license": "MIT",
   "tags": ["driving", "realism", "checklist"],
-  "min_game": "0.3.0"
+  "min_game": "0.3.38"
 }
